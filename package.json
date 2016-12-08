@@ -1,0 +1,23 @@
+{
+  "name": "langauge-map",
+  "version": "0.0.1",
+  "description": "Experiment with D3 maps to show languages of the world",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "build": "webpack"
+  },
+  "author": "everm1nd",
+  "license": "ISC",
+  "devDependencies": {
+    "babel": "^6.5.2",
+    "babel-core": "^6.18.2",
+    "babel-loader": "^6.2.9",
+    "babel-preset-es2015": "^6.18.0",
+    "webpack": "^1.14.0"
+  },
+  "dependencies": {
+    "datamaps": "^0.5.8",
+    "lodash": "^4.17.2"
+  }
+}
